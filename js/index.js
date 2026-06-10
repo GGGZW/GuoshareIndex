@@ -44,8 +44,8 @@ const ORIGINAL_LINKS = [
         badge: "影视站点"
     },
     {
-        name: "GitHub 开源代码库",
-        url: "https://github.com",
+        name: "我的GitHub 开源代码库",
+        url: "https://github.com/GGGZW",
         description: "全球技术社区，寻找实用脚本与开源项目。",
         icon: "fab fa-github",
         badge: "开发者"
