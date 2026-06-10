@@ -141,7 +141,7 @@ function clearSearch() {
 }
 
 // ---------- 背景图片控制 ----------
-const DEFAULT_BG_IMAGE = '/GuoshareIndex/static/kosaki.png';
+const DEFAULT_BG_IMAGE = 'static/kosaki.png';
 const STORAGE_BG_KEY = 'customBgUrl';
 
 function setBackgroundImage(url) {
